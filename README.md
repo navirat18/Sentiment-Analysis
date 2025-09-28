@@ -1,2 +1,14 @@
-# Sentiment-Analysis
-Natural Language Processing project to analyze text and classify sentiments as positive, negative, or neutral using machine learning techniques.
+---
+title: Clustering
+emoji: 📈
+colorFrom: pink
+colorTo: blue
+sdk: gradio
+sdk_version: 5.47.2
+app_file: app.py
+pinned: false
+license: mit
+short_description: Grouping_data
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
